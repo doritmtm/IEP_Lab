@@ -1,0 +1,163 @@
+doritmtm@doritmtm-VPCF12S1E-B:~/Teme/IEP/lab2/build$ make
+[ 33%] Built target item12
+[ 66%] Built target item11
+Scanning dependencies of target item10
+[ 83%] Building CXX object CMakeFiles/item10.dir/src/item10.cpp.o
+[100%] Linking CXX executable item10
+[100%] Built target item10
+doritmtm@doritmtm-VPCF12S1E-B:~/Teme/IEP/lab2/build$ ./item10
+-533790712 3C(12,0,0)
+C(23,59,59)
+C(23,59,59)
+C(23,59,59)
+
+C(10,46,58)
+C(15,15,19)
+C(18,30,38)
+C(1,1,1)
+doritmtm@doritmtm-VPCF12S1E-B:~/Teme/IEP/lab2/build$ make
+[ 33%] Built target item12
+[ 66%] Built target item11
+Scanning dependencies of target item10
+[ 83%] Building CXX object CMakeFiles/item10.dir/src/item10.cpp.o
+[100%] Linking CXX executable item10
+[100%] Built target item10
+doritmtm@doritmtm-VPCF12S1E-B:~/Teme/IEP/lab2/build$ ./item10
+-1254408184 3C(12,0,0)
+C(23,59,59)
+C(23,59,59)
+C(23,59,59)
+
+C(18,48,58)
+C(1,55,59)
+C(15,51,58)
+C(1,1,1)
+doritmtm@doritmtm-VPCF12S1E-B:~/Teme/IEP/lab2/build$ make
+[ 33%] Built target item12
+[ 66%] Built target item11
+Scanning dependencies of target item10
+[ 83%] Building CXX object CMakeFiles/item10.dir/src/item10.cpp.o
+[100%] Linking CXX executable item10
+[100%] Built target item10
+doritmtm@doritmtm-VPCF12S1E-B:~/Teme/IEP/lab2/build$ ./item10
+-1941078008 3C(12,0,0)
+C(23,59,59)
+C(23,59,59)
+C(23,59,59)
+
+C(4,52,59)
+C(18,48,58)
+C(8,44,57)
+C(1,1,1)
+doritmtm@doritmtm-VPCF12S1E-B:~/Teme/IEP/lab2/build$ make
+[ 33%] Built target item12
+[ 66%] Built target item11
+Scanning dependencies of target item10
+[ 83%] Building CXX object CMakeFiles/item10.dir/src/item10.cpp.o
+[100%] Linking CXX executable item10
+[100%] Built target item10
+doritmtm@doritmtm-VPCF12S1E-B:~/Teme/IEP/lab2/build$ ./item10
+2075500552 3C(12,0,0)
+C(23,59,59)
+C(23,59,59)
+C(23,59,59)
+
+C(15,58,1)
+C(5,54,0)
+C(6,55,1)
+C(1,1,1)
+doritmtm@doritmtm-VPCF12S1E-B:~/Teme/IEP/lab2/build$ make
+[ 33%] Built target item12
+[ 66%] Built target item11
+Scanning dependencies of target item10
+[ 83%] Building CXX object CMakeFiles/item10.dir/src/item10.cpp.o
+/home/doritmtm/Teme/IEP/lab2/src/item10.cpp: In member function ‘Clockk& Clockk::operator+=(const Clockk&)’:
+/home/doritmtm/Teme/IEP/lab2/src/item10.cpp:33:5: warning: no return statement in function returning non-void [-Wreturn-type]
+   32 |         //return *this;
+  +++ |+        return *this;
+   33 |     }
+      |     ^
+[100%] Linking CXX executable item10
+[100%] Built target item10
+doritmtm@doritmtm-VPCF12S1E-B:~/Teme/IEP/lab2/build$ ./item10
+-1726058488 3C(12,0,0)
+C(23,59,59)
+C(23,59,59)
+C(23,59,59)
+
+C(15,58,1)
+C(5,54,0)
+C(6,55,1)
+C(1,1,1)
+doritmtm@doritmtm-VPCF12S1E-B:~/Teme/IEP/lab2/build$ make
+[ 33%] Built target item12
+[ 66%] Built target item11
+Scanning dependencies of target item10
+[ 83%] Building CXX object CMakeFiles/item10.dir/src/item10.cpp.o
+/home/doritmtm/Teme/IEP/lab2/src/item10.cpp: In member function ‘Clockk& Clockk::operator+=(const Clockk&)’:
+/home/doritmtm/Teme/IEP/lab2/src/item10.cpp:33:5: warning: no return statement in function returning non-void [-Wreturn-type]
+   32 |         //return *this;
+  +++ |+        return *this;
+   33 |     }
+      |     ^
+/home/doritmtm/Teme/IEP/lab2/src/item10.cpp: In member function ‘Clockk Clockk::operator+(const Clockk&)’:
+/home/doritmtm/Teme/IEP/lab2/src/item10.cpp:42:5: warning: no return statement in function returning non-void [-Wreturn-type]
+   42 |     }
+      |     ^
+[100%] Linking CXX executable item10
+[100%] Built target item10
+doritmtm@doritmtm-VPCF12S1E-B:~/Teme/IEP/lab2/build$ ./item10
+-1911603192 3C(12,0,0)
+C(23,59,59)
+C(23,59,59)
+C(23,59,59)
+
+C(21973,0,0)
+C(2,55,59)
+C(3,57,0)
+C(1,1,1)
+doritmtm@doritmtm-VPCF12S1E-B:~/Teme/IEP/lab2/build$ make
+[ 33%] Built target item12
+[ 66%] Built target item11
+Scanning dependencies of target item10
+[ 83%] Building CXX object CMakeFiles/item10.dir/src/item10.cpp.o
+/home/doritmtm/Teme/IEP/lab2/src/item10.cpp: In member function ‘Clockk& Clockk::operator=(const Clockk&)’:
+/home/doritmtm/Teme/IEP/lab2/src/item10.cpp:25:5: warning: no return statement in function returning non-void [-Wreturn-type]
+   24 |         //return *this;
+  +++ |+        return *this;
+   25 |     }
+      |     ^
+[100%] Linking CXX executable item10
+[100%] Built target item10
+^[[Adoritmtm@doritmtm-VPCF12S1E-B:~/Teme/IEP/lab2/build$ make
+[ 33%] Built target item12
+[ 66%] Built target item11
+[100%] Built target item10
+doritmtm@doritmtm-VPCF12S1E-B:~/Teme/IEP/lab2/build$ ./item10
+787025928 3C(12,0,0)
+C(23,59,59)
+C(23,59,59)
+C(23,59,59)
+
+C(15,58,1)
+C(5,54,0)
+C(6,55,1)
+C(1,1,1)
+doritmtm@doritmtm-VPCF12S1E-B:~/Teme/IEP/lab2/build$ make
+[ 33%] Built target item12
+[ 66%] Built target item11
+Scanning dependencies of target item10
+[ 83%] Building CXX object CMakeFiles/item10.dir/src/item10.cpp.o
+[100%] Linking CXX executable item10
+[100%] Built target item10
+doritmtm@doritmtm-VPCF12S1E-B:~/Teme/IEP/lab2/build$ ./item10
+-2116820984 3C(12,0,0)
+C(23,59,59)
+C(23,59,59)
+C(23,59,59)
+
+C(15,58,1)
+C(5,54,0)
+C(6,55,1)
+C(1,1,1)
+
